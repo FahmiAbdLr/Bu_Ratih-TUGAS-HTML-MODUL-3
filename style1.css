@@ -1,0 +1,26 @@
+div{
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+}
+
+.bgcolor{
+    background-color: antiquewhite;
+}
+
+.bgimage{
+    background-image: url("../abel\ j\ tasman].jfif");
+}
+
+.bgposition{
+    height: 350px;
+    background: url("../logo_berwarna.png") wheat no-repeat center;
+}
+
+.gradient1{
+    background: linear-gradient(to right, red, yellow, green);
+}
+
+.gradient2{
+    background: linear-gradient(red, yellow, green);
+}
